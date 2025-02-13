@@ -14,6 +14,7 @@
     "tsx": "^4.19.2"
   },
   "dependencies": {
+    "@llamaindex/google": "^0.0.7",
     "@openfga/sdk": "^0.8.0",
     "auth0-ai-js": "github:auth0-lab/auth0-ai-js#alpha-2",
     "dotenv": "^16.4.7",
